@@ -1,0 +1,11 @@
+C:\Users\Lolz\source\repos\W4 Takehome\W4 Takehome\obj\Debug\W4 Takehome.csproj.AssemblyReference.cache
+C:\Users\Lolz\source\repos\W4 Takehome\W4 Takehome\obj\Debug\W4 Takehome.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lolz\source\repos\W4 Takehome\W4 Takehome\obj\Debug\Week4.Form1.resources
+C:\Users\Lolz\source\repos\W4 Takehome\W4 Takehome\obj\Debug\Week4.Properties.Resources.resources
+C:\Users\Lolz\source\repos\W4 Takehome\W4 Takehome\obj\Debug\W4 Takehome.csproj.GenerateResource.cache
+C:\Users\Lolz\source\repos\W4 Takehome\W4 Takehome\obj\Debug\W4 Takehome.csproj.CoreCompileInputs.cache
+C:\Users\Lolz\source\repos\W4 Takehome\W4 Takehome\obj\Debug\Week4.exe
+C:\Users\Lolz\source\repos\W4 Takehome\W4 Takehome\obj\Debug\Week4.pdb
+C:\Users\Lolz\source\repos\W4 Takehome\W4 Takehome\bin\Debug\Week4.exe.config
+C:\Users\Lolz\source\repos\W4 Takehome\W4 Takehome\bin\Debug\Week4.exe
+C:\Users\Lolz\source\repos\W4 Takehome\W4 Takehome\bin\Debug\Week4.pdb

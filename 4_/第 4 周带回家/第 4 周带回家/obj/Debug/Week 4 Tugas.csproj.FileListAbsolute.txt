@@ -1,0 +1,11 @@
+C:\Users\Lolz\source\repos\Week 4 Tugas\Week 4 Tugas\bin\Debug\Week4.exe.config
+C:\Users\Lolz\source\repos\Week 4 Tugas\Week 4 Tugas\bin\Debug\Week4.exe
+C:\Users\Lolz\source\repos\Week 4 Tugas\Week 4 Tugas\bin\Debug\Week4.pdb
+C:\Users\Lolz\source\repos\Week 4 Tugas\Week 4 Tugas\obj\Debug\Week 4 Tugas.csproj.AssemblyReference.cache
+C:\Users\Lolz\source\repos\Week 4 Tugas\Week 4 Tugas\obj\Debug\Week 4 Tugas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lolz\source\repos\Week 4 Tugas\Week 4 Tugas\obj\Debug\Week4.Form1.resources
+C:\Users\Lolz\source\repos\Week 4 Tugas\Week 4 Tugas\obj\Debug\Week4.Properties.Resources.resources
+C:\Users\Lolz\source\repos\Week 4 Tugas\Week 4 Tugas\obj\Debug\Week 4 Tugas.csproj.GenerateResource.cache
+C:\Users\Lolz\source\repos\Week 4 Tugas\Week 4 Tugas\obj\Debug\Week 4 Tugas.csproj.CoreCompileInputs.cache
+C:\Users\Lolz\source\repos\Week 4 Tugas\Week 4 Tugas\obj\Debug\Week4.exe
+C:\Users\Lolz\source\repos\Week 4 Tugas\Week 4 Tugas\obj\Debug\Week4.pdb

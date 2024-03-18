@@ -1,0 +1,11 @@
+C:\Users\Lolz\source\repos\Week4\Week4\bin\Debug\Week4.exe.config
+C:\Users\Lolz\source\repos\Week4\Week4\bin\Debug\Week4.exe
+C:\Users\Lolz\source\repos\Week4\Week4\bin\Debug\Week4.pdb
+C:\Users\Lolz\source\repos\Week4\Week4\obj\Debug\Week4.csproj.AssemblyReference.cache
+C:\Users\Lolz\source\repos\Week4\Week4\obj\Debug\Week4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lolz\source\repos\Week4\Week4\obj\Debug\Week4.Form1.resources
+C:\Users\Lolz\source\repos\Week4\Week4\obj\Debug\Week4.Properties.Resources.resources
+C:\Users\Lolz\source\repos\Week4\Week4\obj\Debug\Week4.csproj.GenerateResource.cache
+C:\Users\Lolz\source\repos\Week4\Week4\obj\Debug\Week4.csproj.CoreCompileInputs.cache
+C:\Users\Lolz\source\repos\Week4\Week4\obj\Debug\Week4.exe
+C:\Users\Lolz\source\repos\Week4\Week4\obj\Debug\Week4.pdb

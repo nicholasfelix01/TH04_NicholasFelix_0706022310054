@@ -1,0 +1,21 @@
+C:\Users\Lolz\source\repos\第 4 周带回家\第 4 周带回家\obj\Debug\第 4 周带回家.csproj.AssemblyReference.cache
+C:\Users\Lolz\source\repos\第 4 周带回家\第 4 周带回家\obj\Debug\第 4 周带回家.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lolz\source\repos\第 4 周带回家\第 4 周带回家\obj\Debug\Week4.Properties.Resources.resources
+C:\Users\Lolz\source\repos\第 4 周带回家\第 4 周带回家\obj\Debug\第 4 周带回家.csproj.GenerateResource.cache
+C:\Users\Lolz\source\repos\第 4 周带回家\第 4 周带回家\obj\Debug\第 4 周带回家.csproj.CoreCompileInputs.cache
+C:\Users\Lolz\source\repos\第 4 周带回家\第 4 周带回家\obj\Debug\Week4.exe
+C:\Users\Lolz\source\repos\第 4 周带回家\第 4 周带回家\obj\Debug\Week4.pdb
+C:\Users\Lolz\source\repos\第 4 周带回家\第 4 周带回家\bin\Debug\Week4.exe.config
+C:\Users\Lolz\source\repos\第 4 周带回家\第 4 周带回家\bin\Debug\Week4.exe
+C:\Users\Lolz\source\repos\第 4 周带回家\第 4 周带回家\bin\Debug\Week4.pdb
+C:\Users\Lolz\source\repos\第 4 周带回家\第 4 周带回家\obj\Debug\第4周带回家.表格1.resources
+C:\Users\abomi\Downloads\4_\第 4 周带回家\第 4 周带回家\bin\Debug\Week4.exe.config
+C:\Users\abomi\Downloads\4_\第 4 周带回家\第 4 周带回家\bin\Debug\Week4.exe
+C:\Users\abomi\Downloads\4_\第 4 周带回家\第 4 周带回家\bin\Debug\Week4.pdb
+C:\Users\abomi\Downloads\4_\第 4 周带回家\第 4 周带回家\obj\Debug\第 4 周带回家.csproj.AssemblyReference.cache
+C:\Users\abomi\Downloads\4_\第 4 周带回家\第 4 周带回家\obj\Debug\第4周带回家.表格1.resources
+C:\Users\abomi\Downloads\4_\第 4 周带回家\第 4 周带回家\obj\Debug\Week4.Properties.Resources.resources
+C:\Users\abomi\Downloads\4_\第 4 周带回家\第 4 周带回家\obj\Debug\第 4 周带回家.csproj.GenerateResource.cache
+C:\Users\abomi\Downloads\4_\第 4 周带回家\第 4 周带回家\obj\Debug\第 4 周带回家.csproj.CoreCompileInputs.cache
+C:\Users\abomi\Downloads\4_\第 4 周带回家\第 4 周带回家\obj\Debug\Week4.exe
+C:\Users\abomi\Downloads\4_\第 4 周带回家\第 4 周带回家\obj\Debug\Week4.pdb
